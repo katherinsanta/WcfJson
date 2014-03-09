@@ -6,3 +6,7 @@ J:\Android Post\WCF\WcfJson\WcfJson\bin\WcfJson.dll
 J:\Android Post\WCF\WcfJson\WcfJson\bin\WcfJson.pdb
 J:\Android Post\WCF\WcfJson\WcfJson\obj\Debug\WcfJson.dll
 J:\Android Post\WCF\WcfJson\WcfJson\obj\Debug\WcfJson.pdb
+C:\Users\HelibertoRafael\Documents\GitHub\WcfJson\WcfJson\bin\WcfJson.dll
+C:\Users\HelibertoRafael\Documents\GitHub\WcfJson\WcfJson\bin\WcfJson.pdb
+C:\Users\HelibertoRafael\Documents\GitHub\WcfJson\WcfJson\obj\Debug\WcfJson.dll
+C:\Users\HelibertoRafael\Documents\GitHub\WcfJson\WcfJson\obj\Debug\WcfJson.pdb

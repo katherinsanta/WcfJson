@@ -7,12 +7,12 @@ namespace WcfJson
     [ServiceContract]
     public interface IServiceApp
     {
-        [WebInvoke(Method = "GET",UriTemplate = "/ObtenerPersonas",
+        [WebGet(UriTemplate = "/ObtenerPersonas",
             ResponseFormat = WebMessageFormat.Json, 
             BodyStyle = WebMessageBodyStyle.Wrapped)]
         List<Persona> ObtenerPersonas();
 
-        [WebInvoke(Method = "GET", UriTemplate = "/ObtenerPersona?id={id}", 
+        [WebGet(UriTemplate = "/ObtenerPersona?id={id}", 
             ResponseFormat = WebMessageFormat.Json, 
             BodyStyle = WebMessageBodyStyle.Wrapped)]
         Persona ObtenerPersona(int id);
@@ -22,7 +22,7 @@ namespace WcfJson
             ResponseFormat = WebMessageFormat.Json, 
             RequestFormat = WebMessageFormat.Json, 
             Method = "POST")]
-        [OperationContract]
+
         bool ActualizarPersona(Persona dto);
 
     }
