@@ -1,0 +1,8 @@
+H:\Android Post\WCF\WcfJson\WcfJson\bin\WcfJson.dll
+H:\Android Post\WCF\WcfJson\WcfJson\bin\WcfJson.pdb
+H:\Android Post\WCF\WcfJson\WcfJson\obj\Debug\WcfJson.dll
+H:\Android Post\WCF\WcfJson\WcfJson\obj\Debug\WcfJson.pdb
+J:\Android Post\WCF\WcfJson\WcfJson\bin\WcfJson.dll
+J:\Android Post\WCF\WcfJson\WcfJson\bin\WcfJson.pdb
+J:\Android Post\WCF\WcfJson\WcfJson\obj\Debug\WcfJson.dll
+J:\Android Post\WCF\WcfJson\WcfJson\obj\Debug\WcfJson.pdb
